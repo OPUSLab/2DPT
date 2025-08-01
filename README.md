@@ -1,2 +1,2 @@
-# 2DPT
-Two Dimensional Parallel Tempering
+# 2DPT: Two Dimensional Parallel Tempering
+
